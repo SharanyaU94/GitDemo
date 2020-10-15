@@ -77,4 +77,9 @@ public class Basics {
 		
 	}
 
+	private static Object given() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
