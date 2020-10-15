@@ -19,6 +19,7 @@ System.out.println(totalAmount);
 
 
   String titleFirstCourse=js.get("courses[2].title");
+  System.out.println("Error");
   System.out.println(titleFirstCourse);
   
   //Print All course titles and their respective Prices
