@@ -39,6 +39,7 @@ System.out.println(totalAmount);
  for(int i=0;i<count;i++)
  {
 	  String courseTitles=js.get("courses["+i+"].title");
+	  String courseTitles=js.get("courses["+i+"].title");
 	  if(courseTitles.equalsIgnoreCase("RPA"))
 	  {
 		  int copies=js.get("courses["+i+"].copies");
