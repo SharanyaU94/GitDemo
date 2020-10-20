@@ -69,6 +69,7 @@ public class Basics {
 		
 		
 		System.out.println("Error");
+		System.out.println("Error");
 		
 		
 		
